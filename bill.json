@@ -7,7 +7,7 @@
       "to": "2015-02-25"
     }
   },
-  "total": 60.00,
+  "total": 136.03,
   "package": {
     "tv": {
       "subscription": "Variety with Movies HD",
@@ -21,7 +21,7 @@
       "subscription": "Fibre Unlimited",
       "total": 16.40
     },
-    "total": 70.00
+    "total": 71.40
   },
   "callCharges": {
     "calls": [
@@ -54,9 +54,12 @@
       { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
       { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 }
     ],
-    "total": 3.54
+    "total": 59.64
   },
   "skystore": {
+    "rentals": [
+      { "title": "50 Shades of Grey", "cost": 4.99 }
+    ],
     "total": 4.99
   }
 }
