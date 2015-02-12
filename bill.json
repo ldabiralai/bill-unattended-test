@@ -9,18 +9,11 @@
   },
   "total": 136.03,
   "package": {
-    "tv": {
-      "subscription": "Variety with Movies HD",
-      "total": 50.00
-    },
-    "talk": {
-      "subscription": "Sky Talk Anytime",
-      "total": 5.00
-    },
-    "broadband": {
-      "subscription": "Fibre Unlimited",
-      "total": 16.40
-    },
+    "subscriptions": [
+      { "type": "tv", "name": "Variety with Movies HD", "total": 50.00 },
+      { "type": "talk", "name": "Sky Talk Anytime", "total": 5.00 },
+      { "type": "broadband", "name": "Fibre Unlimited", "total": 16.40 }
+    ],
     "total": 71.40
   },
   "callCharges": {
