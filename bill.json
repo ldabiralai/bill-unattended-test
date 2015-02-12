@@ -1,0 +1,62 @@
+{
+  "statement": {
+    "generated": "2015-02-11",
+    "due": "2015-02-25",
+    "period": {
+      "from": "2015-01-26",
+      "to": "2015-02-25"
+    }
+  },
+  "total": 60.00,
+  "package": {
+    "tv": {
+      "subscription": "Variety with Movies HD",
+      "total": 50.00
+    },
+    "talk": {
+      "subscription": "Sky Talk Anytime",
+      "total": 5.00
+    },
+    "broadband": {
+      "subscription": "Fibre Unlimited",
+      "total": 16.40
+    },
+    "total": 70.00
+  },
+  "callCharges": {
+    "calls": [
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "07716393769", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 },
+      { "called": "02074351359", "duration": "00:23:03", "cost": 2.13 }
+    ],
+    "total": 3.54
+  },
+  "skystore": {
+    "total": 4.99
+  }
+}
