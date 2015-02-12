@@ -56,9 +56,13 @@
     ],
     "total": 59.64
   },
-  "skystore": {
+  "skyStore": {
     "rentals": [
       { "title": "50 Shades of Grey", "cost": 4.99 }
+    ],
+    "buyAndKeep": [
+      { "title": "That's what she said", "cost": 9.99 },
+      { "title": "Broke back mountain", "cost": 9.99 }
     ],
     "total": 4.99
   }
