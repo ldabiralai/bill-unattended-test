@@ -9,7 +9,7 @@ To display a customer's Sky bill
 * Complete the task in a language of your choice using whatever tools or frameworks that you want.
 * Must consume bill JSON from endpoint: 
 ```
-https://raw.githubusercontent.com/ldabiralai/bill-unattended-test/master/bill.json
+http://safe-plains-5453.herokuapp.com/bill.json
 ```
 * Should be served up on a web server.
 * Provide a README on how to run your app or, if you deploy it online, a URL to your app. 
