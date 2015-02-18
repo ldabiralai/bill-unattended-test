@@ -16,7 +16,7 @@ http://safe-plains-5453.herokuapp.com/bill.json
 
 ## What we're looking for
 
-* TDD
+* TDD/BDD
 * Simple and eloquent code
 * Knowledge of front end development
 * Bill should be easy to understand (good user experience)
