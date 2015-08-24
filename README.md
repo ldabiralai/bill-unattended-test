@@ -13,7 +13,7 @@ http://safe-plains-5453.herokuapp.com/bill.json
 ```
 * JSON must be consumed by a server acting as a proxy.
 * The submission should be made of the source code along with a README file that explains how to build and run.
-* Don't send large binaries containing dependencies, use some build scripts to pull all dependencies, run the tests, and run the software.
+* Don't send large files containing dependencies, use some build scripts to pull all dependencies, run the tests, and run the software.
 * If you deploy it online, give us the URL.
 
 ## What we're looking for
